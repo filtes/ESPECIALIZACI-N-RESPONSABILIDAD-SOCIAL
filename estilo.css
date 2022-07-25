@@ -1,5 +1,5 @@
 *{
-  background-color:rgb(12, 78, 49);
+  background-color:rgb(30, 116, 182);
   color: aliceblue;
   width: 100%;
   height: auto;
@@ -98,8 +98,8 @@ aside{
 }
 
 .aside--a{
-  background:rgba(91, 101, 101, 0.986);
-  color:rgb(157, 215, 239);
+  background:rgba(54, 142, 196, 0.986);
+  color:rgb(233, 238, 243);
   /* border:rgb(235, 236, 241) 2px solid; */
   text-align: left;
   font-size:x-small;
